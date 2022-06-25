@@ -1,4 +1,4 @@
 # odin-recipes
-Recipe list from TOP
+Recipe site from TOP
 
 Simple project working with links, images, HTML. 
